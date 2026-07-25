@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+*.venv/
+__pycache__/
+*.pyc
+
+# Large data and model files
+*.bin
+*.safetensors
+*.pt
+
+# Environment secrets
+.env
+
+# Results and logs (optional - decide if you want these tracked)
+output/
+*.log
+
+# OS files
+.DS_Store
