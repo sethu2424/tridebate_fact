@@ -19,3 +19,8 @@ output/
 # OS files
 .DS_Store
 .log
+results/
+.tranco/
+
+#datasets
+external/
